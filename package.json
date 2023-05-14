@@ -1,0 +1,12 @@
+{
+    "name": "base-time",
+    "version": "0.0.5",
+    "main": "./src/index.js",
+    "type": "module",
+    "scripts": {
+        "test": "vitest"
+    },
+    "dependencies": {
+        "vitest": "^0.31.0"
+    }
+}
